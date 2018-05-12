@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1987
     wikipedia: http://en.wikipedia.org/wiki/Israel_Zangwill
 description: A collection of silly and satiric 1890s New Humour.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45623#The-Old-Maids-Club
 gutenberg_issued: '2014-05-10'
 gutenberg_type: Text
 identifiers:
