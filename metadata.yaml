@@ -1,0 +1,49 @@
+_repo: The-Old-Maids-Club_45623
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Townsend, F. H. (Frederick Henry)
+    aliases:
+    - Townsend, F.H.
+    - Townsend, Frederick Henry
+    birthdate: 1868
+    deathdate: 1920
+    gutenberg_agent_id: '9854'
+    url: http://www.gutenberg.org/2009/agents/9854
+covers:
+- cover_type: archival
+  image_path: 45623-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Zangwill, Israel
+    alias: Zangwill, I. (Israel)
+    birthdate: 1864
+    deathdate: 1926
+    gutenberg_agent_id: '1987'
+    url: http://www.gutenberg.org/2009/agents/1987
+    wikipedia: http://en.wikipedia.org/wiki/Israel_Zangwill
+description: A collection of silly and satiric 1890s New Humour.
+gutenberg_issued: '2014-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45623'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Single women -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Marriage -- Fiction'
+tableOfContents: The algebra of love, plus other things -- The honorary trier -- The
+  man in the ironed mask -- The club gets advertised -- The princess of Portman Square
+  -- The grammar of love -- The idyl of Trepolpen -- More about the cherub -- Of wives
+  and their mistresses -- The good young men who lived -- Adventures in search of
+  the Pole -- The arithmetic and physiology of love -- "The English Shakespeare" --
+  The old young woman and the new -- The mysterious advertiser -- The culb becomes
+  popular -- A musical bar -- The beautiful ghoul -- La femme incomprise -- The inaugural
+  soirée.
+title: The Old Maids' Club
+url: http://www.gutenberg.org/ebooks/45623
